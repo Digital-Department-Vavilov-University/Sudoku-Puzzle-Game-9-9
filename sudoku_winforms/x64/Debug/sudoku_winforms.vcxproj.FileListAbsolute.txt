@@ -1,0 +1,3 @@
+C:\Users\Исаев\Desktop\sudoku_winforms-master\sudoku_winforms\x64\Debug\sudoku_winforms.vcxproj.AssemblyReference.cache
+C:\Users\Исаев\Desktop\sudoku_winforms-master\sudoku_winforms\x64\Debug\sudokuwinforms.MyForm.resources
+C:\Users\Исаев\Desktop\sudoku_winforms-master\sudoku_winforms\x64\Debug\sudoku_winforms.vcxproj.GenerateResource.cache
